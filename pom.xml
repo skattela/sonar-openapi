@@ -83,7 +83,7 @@
     <mockito.version>1.10.19</mockito.version>
     <sonar.version>6.7.4</sonar.version>
     <sonar.analyzer.commons.version>1.6.0.219</sonar.analyzer.commons.version>
-    <sonar.orchestrator.version>3.15.2.1322</sonar.orchestrator.version>
+    <sonar.orchestrator.version>3.36.0.63</sonar.orchestrator.version>
     <sslr.version>1.22</sslr.version>
     <sslr.yaml.version>1.2.1</sslr.yaml.version>
   </properties>
